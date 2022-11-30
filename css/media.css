@@ -1,0 +1,5 @@
+@media (max-width: 575px){
+    .navbar-toggler span{
+        color: red;
+    }
+}
